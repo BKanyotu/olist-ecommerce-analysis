@@ -1,0 +1,14 @@
+# Raw data files (link to Kaggle in the README instead)
+*.csv
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets and environment
+.env
+*.env
+
+# OS clutter
+.DS_Store
+Thumbs.db
